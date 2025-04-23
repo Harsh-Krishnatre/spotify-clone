@@ -8,9 +8,9 @@
     "skipLibCheck": true,
     "incremental": true,
 
-    "baseUrl": ".",
+    "baseUrl": "./src",
     "paths": {
-      "@/*": ["./src/*"]
+      "@/*": ["*"]
     },
 
     /* Bundler mode */
